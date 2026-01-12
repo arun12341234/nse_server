@@ -1,0 +1,358 @@
+2026-01-11 17:24:30,811 - INFO - Fetching dates from: http://127.0.0.1:5000/api/download/2026...
+2026-01-11 17:24:30,822 - INFO - Successfully fetched 102 dates
+2026-01-11 17:24:32,009 - INFO - Running step_1_equity_derivatives_list...
+2026-01-11 17:24:32,110 - INFO - Successfully fetched 102 files
+2026-01-11 17:24:32,113 - INFO - Loaded 213 symbols from symbols.csv
+2026-01-11 17:24:32,113 - INFO - 
+============================================================
+2026-01-11 17:24:32,114 - INFO - Processing Batch 1/5 (50 symbols)
+2026-01-11 17:24:32,115 - INFO - ============================================================
+
+2026-01-11 17:24:32,116 - INFO - Starting parallel processing of 50 symbols with 10 workers
+2026-01-11 17:24:33,591 - INFO - Processing symbol: NIFTY
+2026-01-11 17:24:33,591 - INFO - Processing symbol: BANKNIFTY
+2026-01-11 17:24:33,591 - INFO - Processing symbol: FINNIFTY
+2026-01-11 17:24:33,592 - INFO - Processing symbol: MIDCPNIFTY
+2026-01-11 17:24:33,592 - INFO - Processing symbol: NIFTYNXT50
+2026-01-11 17:24:33,592 - INFO - Processing symbol: 360ONE
+2026-01-11 17:24:33,592 - INFO - Processing symbol: ABB
+2026-01-11 17:24:33,593 - INFO - Processing symbol: APLAPOLLO
+2026-01-11 17:24:33,593 - INFO - Processing symbol: AUBANK
+2026-01-11 17:24:33,595 - INFO - Processing symbol: ADANIENSOL
+2026-01-11 17:35:17,703 - INFO - Processing symbol: ADANIENT
+2026-01-11 17:35:17,706 - INFO - Progress: 1/50 (2.0%)
+2026-01-11 17:35:18,098 - INFO - Processing symbol: ADANIGREEN
+2026-01-11 17:35:18,103 - INFO - Progress: 2/50 (4.0%)
+2026-01-11 17:35:18,203 - INFO - Processing symbol: ADANIPORTS
+2026-01-11 17:35:18,229 - INFO - Progress: 3/50 (6.0%)
+2026-01-11 17:35:23,189 - INFO - Processing symbol: ABCAPITAL
+2026-01-11 17:35:23,189 - INFO - Progress: 4/50 (8.0%)
+2026-01-11 17:35:23,216 - INFO - Processing symbol: ALKEM
+2026-01-11 17:35:23,252 - INFO - Processing symbol: AMBER
+2026-01-11 17:35:23,254 - INFO - Progress: 5/50 (10.0%)
+2026-01-11 17:35:23,279 - INFO - Progress: 6/50 (12.0%)
+2026-01-11 17:35:24,619 - INFO - Processing symbol: AMBUJACEM
+2026-01-11 17:35:24,620 - INFO - Progress: 7/50 (14.0%)
+2026-01-11 17:35:24,728 - INFO - Processing symbol: ANGELONE
+2026-01-11 17:35:24,847 - INFO - Progress: 8/50 (16.0%)
+2026-01-11 17:35:27,372 - INFO - Processing symbol: APOLLOHOSP
+2026-01-11 17:35:27,375 - INFO - Progress: 9/50 (18.0%)
+2026-01-11 17:35:27,759 - INFO - Processing symbol: ASHOKLEY
+2026-01-11 17:35:27,768 - INFO - Progress: 10/50 (20.0%)
+2026-01-11 17:44:16,445 - INFO - Fetching dates from: http://127.0.0.1:5000/api/download/2026...
+2026-01-11 17:44:18,451 - ERROR - Error fetching dates: Cannot connect to host 127.0.0.1:5000 ssl:default [The remote computer refused the network connection]
+2026-01-11 17:44:18,452 - ERROR - Failed to fetch dates. Exiting.
+2026-01-11 17:46:30,300 - INFO - Fetching dates from: http://127.0.0.1:5000/api/download/2026...
+2026-01-11 17:46:32,306 - ERROR - Error fetching dates: Cannot connect to host 127.0.0.1:5000 ssl:default [The remote computer refused the network connection]
+2026-01-11 17:46:32,307 - ERROR - Failed to fetch dates. Exiting.
+2026-01-11 17:46:57,811 - INFO - Fetching dates from: http://127.0.0.1:5000/api/download/2026...
+2026-01-11 17:46:57,815 - INFO - Successfully fetched 102 dates
+2026-01-11 17:46:59,226 - INFO - Running step_1_equity_derivatives_list...
+2026-01-11 17:46:59,268 - INFO - Successfully fetched 102 files
+2026-01-11 17:46:59,269 - INFO - Loaded 213 symbols from symbols.csv
+2026-01-11 17:46:59,269 - INFO - 
+============================================================
+2026-01-11 17:46:59,269 - INFO - Processing Batch 1/5 (50 symbols)
+2026-01-11 17:46:59,269 - INFO - ============================================================
+
+2026-01-11 17:46:59,916 - INFO - Processing symbol: NIFTY
+2026-01-11 17:46:59,916 - INFO - Processing symbol: BANKNIFTY
+2026-01-11 17:46:59,917 - INFO - Processing symbol: FINNIFTY
+2026-01-11 17:46:59,917 - INFO - Processing symbol: MIDCPNIFTY
+2026-01-11 17:46:59,917 - INFO - Processing symbol: NIFTYNXT50
+2026-01-11 17:46:59,918 - INFO - Processing symbol: 360ONE
+2026-01-11 17:46:59,918 - INFO - Processing symbol: ABB
+2026-01-11 17:46:59,918 - INFO - Processing symbol: APLAPOLLO
+2026-01-11 17:46:59,919 - INFO - Processing symbol: AUBANK
+2026-01-11 17:46:59,931 - INFO - Processing symbol: ADANIENSOL
+2026-01-11 18:01:30,644 - INFO - Fetching dates from: http://127.0.0.1:5000/api/download/2026...
+2026-01-11 18:01:30,648 - INFO - Successfully fetched 102 dates
+2026-01-11 18:01:32,679 - INFO - Running step_1_equity_derivatives_list...
+2026-01-11 18:01:32,752 - INFO - Successfully fetched 102 files
+2026-01-11 18:01:32,755 - INFO - Loaded 213 symbols from symbols.csv
+2026-01-11 18:01:32,756 - INFO - 
+============================================================
+2026-01-11 18:01:32,756 - INFO - Processing Batch 1/5 (50 symbols)
+2026-01-11 18:01:32,757 - INFO - ============================================================
+
+2026-01-11 18:01:34,068 - INFO - Processing symbol: NIFTY
+2026-01-11 18:01:34,068 - INFO - Processing symbol: BANKNIFTY
+2026-01-11 18:01:34,068 - INFO - Processing symbol: FINNIFTY
+2026-01-11 18:01:34,068 - INFO - Processing symbol: MIDCPNIFTY
+2026-01-11 18:01:34,068 - INFO - Processing symbol: NIFTYNXT50
+2026-01-11 18:01:34,068 - INFO - Processing symbol: 360ONE
+2026-01-11 18:01:34,068 - INFO - Processing symbol: ABB
+2026-01-11 18:01:34,069 - INFO - Processing symbol: APLAPOLLO
+2026-01-11 18:01:34,069 - INFO - Processing symbol: AUBANK
+2026-01-11 18:01:34,070 - INFO - Processing symbol: ADANIENSOL
+2026-01-11 18:01:34,070 - INFO - Processing symbol: ADANIENT
+2026-01-11 18:01:34,074 - INFO - Processing symbol: ADANIGREEN
+2026-01-11 18:14:51,678 - INFO - Processing symbol: ADANIPORTS
+2026-01-11 18:14:52,412 - INFO - Processing symbol: ABCAPITAL
+2026-01-11 18:14:52,579 - INFO - Processing symbol: ALKEM
+2026-01-11 18:14:53,221 - INFO - Processing symbol: AMBER
+2026-01-11 18:14:53,869 - INFO - Processing symbol: AMBUJACEM
+2026-01-11 18:14:56,559 - INFO - Processing symbol: ANGELONE
+2026-01-11 18:15:00,983 - INFO - Processing symbol: APOLLOHOSP
+2026-01-11 18:15:04,852 - INFO - Processing symbol: ASHOKLEY
+2026-01-11 18:15:06,327 - INFO - Processing symbol: ASIANPAINT
+2026-01-11 18:15:07,076 - INFO - Processing symbol: ASTRAL
+2026-01-11 18:15:14,805 - INFO - Processing symbol: AUROPHARMA
+2026-01-11 18:15:17,797 - INFO - Processing symbol: DMART
+2026-01-11 18:20:41,064 - INFO - Fetching dates from: http://127.0.0.1:5000/api/download/2026...
+2026-01-11 18:20:43,067 - ERROR - Error fetching dates: Cannot connect to host 127.0.0.1:5000 ssl:default [The remote computer refused the network connection]
+2026-01-11 18:20:43,067 - ERROR - Failed to fetch dates. Exiting.
+2026-01-11 18:20:59,944 - INFO - Fetching dates from: http://127.0.0.1:5000/api/download/2026...
+2026-01-11 18:20:59,948 - INFO - Successfully fetched 102 dates
+2026-01-11 18:21:01,232 - INFO - Running step_1_equity_derivatives_list...
+2026-01-11 18:21:01,333 - INFO - Successfully fetched 102 files
+2026-01-11 18:21:01,335 - INFO - Loaded 213 symbols from symbols.csv
+2026-01-11 18:21:01,336 - INFO - 
+============================================================
+2026-01-11 18:21:01,336 - INFO - Processing Batch 1/3 (100 symbols)
+2026-01-11 18:21:01,337 - INFO - ============================================================
+
+2026-01-11 18:21:02,458 - INFO - Processing symbol: NIFTY
+2026-01-11 18:21:02,458 - INFO - Processing symbol: BANKNIFTY
+2026-01-11 18:21:02,458 - INFO - Processing symbol: FINNIFTY
+2026-01-11 18:21:02,458 - INFO - Processing symbol: MIDCPNIFTY
+2026-01-11 18:21:02,459 - INFO - Processing symbol: NIFTYNXT50
+2026-01-11 18:21:02,459 - INFO - Processing symbol: 360ONE
+2026-01-11 18:21:02,459 - INFO - Processing symbol: ABB
+2026-01-11 18:21:02,459 - INFO - Processing symbol: APLAPOLLO
+2026-01-11 18:21:02,460 - INFO - Processing symbol: AUBANK
+2026-01-11 18:21:02,460 - INFO - Processing symbol: ADANIENSOL
+2026-01-11 18:21:02,460 - INFO - Processing symbol: ADANIENT
+2026-01-11 18:21:02,461 - INFO - Processing symbol: ADANIGREEN
+2026-01-11 18:30:25,236 - INFO - Processing symbol: ADANIPORTS
+2026-01-11 18:30:29,984 - INFO - Processing symbol: ABCAPITAL
+2026-01-11 18:30:30,223 - INFO - Processing symbol: ALKEM
+2026-01-11 18:30:30,704 - INFO - Processing symbol: AMBER
+2026-01-11 18:30:30,990 - INFO - Processing symbol: AMBUJACEM
+2026-01-11 18:30:34,657 - INFO - Processing symbol: ANGELONE
+2026-01-11 18:30:35,134 - INFO - Processing symbol: APOLLOHOSP
+2026-01-11 18:30:35,725 - INFO - Processing symbol: ASHOKLEY
+2026-01-11 18:30:37,507 - INFO - Processing symbol: ASIANPAINT
+2026-01-11 18:30:42,049 - INFO - Processing symbol: ASTRAL
+2026-01-11 18:30:42,873 - INFO - Processing symbol: AUROPHARMA
+2026-01-11 18:30:53,503 - INFO - Processing symbol: DMART
+2026-01-11 18:41:24,058 - INFO - Processing symbol: AXISBANK
+2026-01-11 18:41:30,819 - INFO - Processing symbol: BSE
+2026-01-11 18:41:30,985 - INFO - Processing symbol: BAJAJ-AUTO
+2026-01-11 18:41:31,173 - INFO - Processing symbol: BAJFINANCE
+2026-01-11 18:41:32,351 - INFO - Processing symbol: BAJAJFINSV
+2026-01-11 18:41:34,188 - INFO - Processing symbol: BAJAJHLDNG
+2026-01-11 18:41:35,030 - INFO - Processing symbol: BANDHANBNK
+2026-01-11 18:41:35,819 - INFO - Processing symbol: BANKBARODA
+2026-01-11 18:41:38,941 - INFO - Processing symbol: BANKINDIA
+2026-01-11 18:41:48,260 - INFO - Processing symbol: BDL
+2026-01-11 18:41:50,430 - INFO - Processing symbol: BEL
+2026-01-11 18:42:03,241 - INFO - Processing symbol: BHARATFORG
+2026-01-11 18:45:35,382 - INFO - Processing symbol: BHEL
+2026-01-11 18:52:00,058 - INFO - Processing symbol: BPCL
+2026-01-11 18:52:05,504 - INFO - Processing symbol: BHARTIARTL
+2026-01-11 18:52:05,959 - INFO - Processing symbol: BIOCON
+2026-01-11 18:52:06,951 - INFO - Processing symbol: BLUESTARCO
+2026-01-11 18:52:11,313 - INFO - Processing symbol: BOSCHLTD
+2026-01-11 18:52:12,127 - INFO - Processing symbol: BRITANNIA
+2026-01-11 18:52:12,206 - INFO - Processing symbol: CGPOWER
+2026-01-11 18:52:12,258 - INFO - Processing symbol: CANBK
+2026-01-11 18:52:26,301 - INFO - Processing symbol: CDSL
+2026-01-11 18:52:27,644 - INFO - Processing symbol: CHOLAFIN
+2026-01-11 18:52:43,777 - INFO - Processing symbol: CIPLA
+2026-01-11 18:56:19,830 - INFO - Processing symbol: COALINDIA
+2026-01-11 19:02:37,435 - INFO - Processing symbol: COFORGE
+2026-01-11 19:02:40,746 - INFO - Processing symbol: COLPAL
+2026-01-11 19:02:43,050 - INFO - Processing symbol: CAMS
+2026-01-11 19:02:44,352 - INFO - Processing symbol: CONCOR
+2026-01-11 19:02:50,209 - INFO - Processing symbol: CROMPTON
+2026-01-11 19:02:53,865 - INFO - Processing symbol: CUMMINSIND
+2026-01-11 19:02:54,568 - INFO - Processing symbol: DLF
+2026-01-11 19:02:56,363 - INFO - Processing symbol: DABUR
+2026-01-11 19:03:10,268 - INFO - Processing symbol: DALBHARAT
+2026-01-11 19:03:11,799 - INFO - Processing symbol: DELHIVERY
+2026-01-11 19:03:32,821 - INFO - Processing symbol: DIVISLAB
+2026-01-11 19:07:00,989 - INFO - Processing symbol: DIXON
+2026-01-11 19:13:10,922 - INFO - Processing symbol: DRREDDY
+2026-01-11 19:13:14,336 - INFO - Processing symbol: ETERNAL
+2026-01-11 19:13:16,687 - INFO - Processing symbol: EICHERMOT
+2026-01-11 19:13:16,784 - INFO - Processing symbol: EXIDEIND
+2026-01-11 19:13:20,932 - INFO - Processing symbol: NYKAA
+2026-01-11 19:13:24,304 - INFO - Processing symbol: FORTIS
+2026-01-11 19:13:26,660 - INFO - Processing symbol: GAIL
+2026-01-11 19:13:30,242 - INFO - Processing symbol: GMRAIRPORT
+2026-01-11 19:13:44,924 - INFO - Processing symbol: GLENMARK
+2026-01-11 19:13:46,368 - INFO - Processing symbol: GODREJCP
+2026-01-11 19:13:57,617 - INFO - Processing symbol: GODREJPROP
+2026-01-11 19:16:41,887 - INFO - Processing symbol: GRASIM
+2026-01-11 19:22:21,520 - INFO - Processing symbol: HCLTECH
+2026-01-11 19:22:23,261 - INFO - Processing symbol: HDFCAMC
+2026-01-11 19:22:24,146 - INFO - Processing symbol: HDFCBANK
+2026-01-11 19:22:26,612 - INFO - Processing symbol: HDFCLIFE
+2026-01-11 19:22:29,123 - INFO - Processing symbol: HAVELLS
+2026-01-11 19:22:29,347 - INFO - Processing symbol: HEROMOTOCO
+2026-01-11 19:22:38,554 - INFO - Processing symbol: HINDALCO
+2026-01-11 19:22:42,923 - INFO - Processing symbol: HAL
+2026-01-11 19:23:02,696 - INFO - Processing symbol: HINDPETRO
+2026-01-11 19:23:06,705 - INFO - Processing symbol: HINDUNILVR
+2026-01-11 19:23:17,507 - INFO - Processing symbol: HINDZINC
+2026-01-11 19:25:55,354 - INFO - Processing symbol: POWERINDIA
+2026-01-11 19:31:35,305 - INFO - Processing symbol: HUDCO
+2026-01-11 19:31:41,160 - INFO - Processing symbol: ICICIBANK
+2026-01-11 19:31:45,011 - INFO - Processing symbol: ICICIGI
+2026-01-11 19:31:45,139 - INFO - Processing symbol: ICICIPRULI
+2026-01-11 19:31:45,633 - INFO - Processing symbol: IDFCFIRSTB
+2026-01-11 19:31:54,568 - INFO - Processing symbol: IIFL
+2026-01-11 19:31:59,788 - INFO - Processing symbol: ITC
+2026-01-11 19:32:09,783 - INFO - Processing symbol: INDIANB
+2026-01-11 19:32:30,355 - INFO - Processing symbol: IEX
+2026-01-11 19:32:42,530 - INFO - Processing symbol: IOC
+2026-01-11 19:32:55,822 - INFO - Processing symbol: IRCTC
+2026-01-11 19:35:46,144 - INFO - Processing symbol: IRFC
+2026-01-11 19:40:14,154 - INFO - Processing symbol: IREDA
+2026-01-11 19:41:18,749 - INFO - Processing symbol: INDUSTOWER
+2026-01-11 19:41:29,523 - INFO - Processing symbol: INDUSINDBK
+2026-01-11 19:44:26,349 - INFO - Overall Progress: 100/213 (46.9%)
+2026-01-11 19:44:27,350 - INFO - 
+============================================================
+2026-01-11 19:44:27,350 - INFO - Processing Batch 2/3 (100 symbols)
+2026-01-11 19:44:27,350 - INFO - ============================================================
+
+2026-01-11 19:44:27,352 - INFO - Processing symbol: NAUKRI
+2026-01-11 19:44:27,352 - INFO - Processing symbol: INFY
+2026-01-11 19:44:27,353 - INFO - Processing symbol: INOXWIND
+2026-01-11 19:44:27,353 - INFO - Processing symbol: INDIGO
+2026-01-11 19:44:27,353 - INFO - Processing symbol: JINDALSTEL
+2026-01-11 19:44:27,353 - INFO - Processing symbol: JSWENERGY
+2026-01-11 19:44:27,353 - INFO - Processing symbol: JSWSTEEL
+2026-01-11 19:44:27,354 - INFO - Processing symbol: JIOFIN
+2026-01-11 19:44:27,354 - INFO - Processing symbol: JUBLFOOD
+2026-01-11 19:44:27,354 - INFO - Processing symbol: KEI
+2026-01-11 19:44:27,356 - INFO - Processing symbol: KPITTECH
+2026-01-11 19:44:27,356 - INFO - Processing symbol: KALYANKJIL
+2026-01-11 19:54:28,396 - INFO - Processing symbol: KAYNES
+2026-01-11 19:54:30,658 - INFO - Processing symbol: KFINTECH
+2026-01-11 19:54:30,796 - INFO - Processing symbol: KOTAKBANK
+2026-01-11 19:54:33,068 - INFO - Processing symbol: LTF
+2026-01-11 19:54:33,629 - INFO - Processing symbol: LICHSGFIN
+2026-01-11 19:54:34,107 - INFO - Processing symbol: LTIM
+2026-01-11 19:54:36,135 - INFO - Processing symbol: LT
+2026-01-11 19:54:36,894 - INFO - Processing symbol: LAURUSLABS
+2026-01-11 19:54:37,032 - INFO - Processing symbol: LICI
+2026-01-11 19:54:37,242 - INFO - Processing symbol: LODHA
+2026-01-11 19:54:37,350 - INFO - Processing symbol: LUPIN
+2026-01-11 19:54:37,587 - INFO - Processing symbol: M&M
+2026-01-11 20:03:59,003 - INFO - Processing symbol: MANAPPURAM
+2026-01-11 20:03:59,647 - INFO - Processing symbol: MANKIND
+2026-01-11 20:04:01,784 - INFO - Processing symbol: MARICO
+2026-01-11 20:04:05,940 - INFO - Processing symbol: MARUTI
+2026-01-11 20:04:06,258 - INFO - Processing symbol: MFSL
+2026-01-11 20:04:06,691 - INFO - Processing symbol: MAXHEALTH
+2026-01-11 20:04:07,282 - INFO - Processing symbol: MAZDOCK
+2026-01-11 20:04:09,065 - INFO - Processing symbol: MPHASIS
+2026-01-11 20:04:09,816 - INFO - Processing symbol: MCX
+2026-01-11 20:04:10,693 - INFO - Processing symbol: MUTHOOTFIN
+2026-01-11 20:04:12,503 - INFO - Processing symbol: NBCC
+2026-01-11 20:04:16,915 - INFO - Processing symbol: NHPC
+2026-01-11 20:14:11,414 - INFO - Processing symbol: NMDC
+2026-01-11 20:14:13,319 - INFO - Processing symbol: NTPC
+2026-01-11 20:14:16,127 - INFO - Processing symbol: NATIONALUM
+2026-01-11 20:14:20,421 - INFO - Processing symbol: NESTLEIND
+2026-01-11 20:14:21,274 - INFO - Processing symbol: NUVAMA
+2026-01-11 20:14:23,184 - INFO - Processing symbol: OBEROIRLTY
+2026-01-11 20:14:24,628 - INFO - Processing symbol: ONGC
+2026-01-11 20:14:24,952 - INFO - Processing symbol: OIL
+2026-01-11 20:14:25,252 - INFO - Processing symbol: PAYTM
+2026-01-11 20:14:29,749 - INFO - Processing symbol: OFSS
+2026-01-11 20:14:31,640 - INFO - Processing symbol: POLICYBZR
+2026-01-11 20:14:35,323 - INFO - Processing symbol: PGEL
+2026-01-11 20:23:41,661 - INFO - Processing symbol: PIIND
+2026-01-11 20:23:41,849 - INFO - Processing symbol: PNBHOUSING
+2026-01-11 20:23:50,265 - INFO - Processing symbol: PAGEIND
+2026-01-11 20:23:51,346 - INFO - Processing symbol: PATANJALI
+2026-01-11 20:23:52,350 - INFO - Processing symbol: PERSISTENT
+2026-01-11 20:23:52,678 - INFO - Processing symbol: PETRONET
+2026-01-11 20:23:54,450 - INFO - Processing symbol: PIDILITIND
+2026-01-11 20:23:55,267 - INFO - Processing symbol: PPLPHARMA
+2026-01-11 20:23:55,889 - INFO - Processing symbol: POLYCAB
+2026-01-11 20:23:58,036 - INFO - Processing symbol: PFC
+2026-01-11 20:23:58,578 - INFO - Processing symbol: POWERGRID
+2026-01-11 20:24:04,624 - INFO - Processing symbol: PREMIERENE
+2026-01-11 20:27:27,503 - INFO - Processing symbol: PRESTIGE
+2026-01-11 20:32:49,596 - INFO - Processing symbol: PNB
+2026-01-11 20:32:50,539 - INFO - Processing symbol: RBLBANK
+2026-01-11 20:32:53,362 - INFO - Processing symbol: RECLTD
+2026-01-11 20:32:57,234 - INFO - Processing symbol: RVNL
+2026-01-11 20:33:01,982 - INFO - Processing symbol: RELIANCE
+2026-01-11 20:33:02,185 - INFO - Processing symbol: SBICARD
+2026-01-11 20:33:02,387 - INFO - Processing symbol: SBILIFE
+2026-01-11 20:33:02,509 - INFO - Processing symbol: SHREECEM
+2026-01-11 20:33:03,613 - INFO - Processing symbol: SRF
+2026-01-11 20:33:09,733 - INFO - Processing symbol: SAMMAANCAP
+2026-01-11 20:33:11,333 - INFO - Processing symbol: MOTHERSON
+2026-01-11 20:36:37,661 - INFO - Processing symbol: SHRIRAMFIN
+2026-01-11 20:42:24,643 - INFO - Processing symbol: SIEMENS
+2026-01-11 20:42:25,509 - INFO - Processing symbol: SOLARINDS
+2026-01-11 20:42:30,889 - INFO - Processing symbol: SONACOMS
+2026-01-11 20:42:34,563 - INFO - Processing symbol: SBIN
+2026-01-11 20:42:39,178 - INFO - Processing symbol: SAIL
+2026-01-11 20:42:40,478 - INFO - Processing symbol: SUNPHARMA
+2026-01-11 20:42:40,641 - INFO - Processing symbol: SUPREMEIND
+2026-01-11 20:42:45,344 - INFO - Processing symbol: SUZLON
+2026-01-11 20:42:46,283 - INFO - Processing symbol: SWIGGY
+2026-01-11 20:42:51,085 - INFO - Processing symbol: SYNGENE
+2026-01-11 20:42:59,419 - INFO - Processing symbol: TATACONSUM
+2026-01-11 20:47:01,363 - INFO - Processing symbol: TVSMOTOR
+2026-01-11 20:47:03,764 - INFO - Processing symbol: TCS
+2026-01-11 20:53:21,192 - INFO - Processing symbol: TATAELXSI
+2026-01-11 20:53:24,694 - INFO - Processing symbol: TMPV
+2026-01-11 20:53:29,947 - INFO - Processing symbol: TATAPOWER
+2026-01-11 20:53:33,879 - INFO - Processing symbol: TATASTEEL
+2026-01-11 20:53:35,151 - INFO - Processing symbol: TATATECH
+2026-01-11 20:53:37,219 - INFO - Processing symbol: TECHM
+2026-01-11 20:53:42,763 - INFO - Processing symbol: FEDERALBNK
+2026-01-11 20:53:42,877 - INFO - Processing symbol: INDHOTEL
+2026-01-11 20:53:47,817 - INFO - Processing symbol: PHOENIXLTD
+2026-01-11 20:53:54,978 - INFO - Processing symbol: TITAN
+2026-01-11 20:57:46,018 - INFO - Processing symbol: TORNTPHARM
+2026-01-11 20:57:53,374 - INFO - Processing symbol: TORNTPOWER
+2026-01-11 21:03:18,787 - INFO - Processing symbol: TRENT
+2026-01-11 21:04:53,202 - INFO - Processing symbol: TIINDIA
+2026-01-11 21:07:30,447 - INFO - Overall Progress: 200/213 (93.9%)
+2026-01-11 21:07:31,449 - INFO - 
+============================================================
+2026-01-11 21:07:31,450 - INFO - Processing Batch 3/3 (13 symbols)
+2026-01-11 21:07:31,451 - INFO - ============================================================
+
+2026-01-11 21:07:31,454 - INFO - Processing symbol: UNOMINDA
+2026-01-11 21:07:31,455 - INFO - Processing symbol: UPL
+2026-01-11 21:07:31,455 - INFO - Processing symbol: ULTRACEMCO
+2026-01-11 21:07:31,456 - INFO - Processing symbol: UNIONBANK
+2026-01-11 21:07:31,456 - INFO - Processing symbol: UNITDSPR
+2026-01-11 21:07:31,462 - INFO - Processing symbol: WAAREEENER
+2026-01-11 21:07:31,459 - INFO - Processing symbol: VEDL
+2026-01-11 21:07:31,459 - INFO - Processing symbol: IDEA
+2026-01-11 21:07:31,460 - INFO - Processing symbol: VOLTAS
+2026-01-11 21:07:31,458 - INFO - Processing symbol: VBL
+2026-01-11 21:07:31,468 - INFO - Processing symbol: WIPRO
+2026-01-11 21:07:31,470 - INFO - Processing symbol: YESBANK
+2026-01-11 21:11:13,404 - INFO - Processing symbol: ZYDUSLIFE
+2026-01-11 21:19:16,150 - INFO - Overall Progress: 213/213 (100.0%)
+2026-01-11 21:19:16,197 - INFO - 
+============================================================
+2026-01-11 21:19:16,198 - INFO - PROCESSING SUMMARY
+2026-01-11 21:19:16,198 - INFO - ============================================================
+2026-01-11 21:19:16,199 - INFO - Total symbols: 213
+2026-01-11 21:19:16,199 - INFO - Successful: 213
+2026-01-11 21:19:16,200 - INFO - Errors: 0
+2026-01-11 21:19:16,204 - INFO - Average time per symbol: 587.46s
+2026-01-11 21:19:16,205 - INFO - Total processing time: 125129.52s
+2026-01-11 21:19:16,206 - INFO - 
+Detailed report saved to: processing_summary.csv
+2026-01-11 21:19:16,206 - INFO - ============================================================
+
+2026-01-11 21:19:16,207 - INFO - 
+============================================================
+2026-01-11 21:19:16,208 - INFO - Total execution time: 10696.26s (178.27 minutes)
+2026-01-11 21:19:16,209 - INFO - ============================================================
+

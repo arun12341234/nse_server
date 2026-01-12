@@ -1,0 +1,23 @@
+# =========================
+# Python Virtual Environment
+# =========================
+venv/
+
+# =========================
+# NSE Data Files
+# =========================
+Nse_files/
+
+# =========================
+# NSE Downloads
+# =========================
+NSE_Downloads/
+NSE_Downloads/Equity_Deliverable/
+NSE_Downloads/Equity_Bhavcopy/
+NSE_Downloads/FII_Statistics/
+NSE_Downloads/FO_Bhavcopy/
+NSE_Downloads/FO_Combined_OI/
+NSE_Downloads/FO_Participant_OI/
+NSE_Downloads/FO_Participant_Volume/
+NSE_Downloads/Indices/
+NSE_Downloads/VIX/
